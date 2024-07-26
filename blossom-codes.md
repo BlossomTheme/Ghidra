@@ -29,6 +29,7 @@
 # Green
 #00FF7D
 #69FF94
+#58d6ab
 #76FFF9
 #A4FFFF
 #E1EFFF
